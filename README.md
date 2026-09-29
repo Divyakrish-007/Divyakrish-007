@@ -142,7 +142,7 @@ A web project focused on creating a user-facing application experience around th
 
 ## 💡 What I Like Building
 
-```text
+
 ## 🌐 What I Build
 
 🌐 Web Applications  
@@ -172,14 +172,14 @@ A web project focused on creating a user-facing application experience around th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajavarman57&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajavarman57&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyakrish-007&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyakrish-007&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajavarman57&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyakrish-007&theme=github-compact&hide_border=true" />
 </p>
 
 ## 🤝 Let's Connect
@@ -187,11 +187,11 @@ A web project focused on creating a user-facing application experience around th
 I'm always interested in learning, building projects, exploring new technologies, and collaborating on meaningful ideas.
 
 <p align="center">
-  <a href="https://github.com/Rajavarman57">
-    <img src="https://img.shields.io/badge/GitHub-Rajavarman57-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Divyakrish-007">
+    <img src="https://img.shields.io/badge/GitHub-Divyakrish--007-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/rajavarman-arulmurugan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rajavarman%20R%20A-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rajavarman%20R-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
