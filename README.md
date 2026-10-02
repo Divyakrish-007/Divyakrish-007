@@ -89,26 +89,6 @@ An enterprise-style movie ticket booking workflow application developed using th
 
 ---
 
-### 🌦️ Weather App Using API
-
-A weather application focused on retrieving and presenting weather information through an API-driven web interface.
-
-**Technologies used include:**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-🔗 [View Weather App](https://github.com/Divyakrish-007/Weather-app-using-API)
-
----
-
-### ✨ Flair Finds Guide
-
-A web project focused on creating a user-facing application experience around the Flair Finds concept.
-
-🔗 [View Flair Finds Guide](https://github.com/Divyakrish-007/flair-finds-guide)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
